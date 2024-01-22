@@ -1,19 +1,3 @@
-Indigo, a cool blue theme for Open edX
-======================================
-
-Indigo is an elegant, customizable theme for `Open edX <https://open.edx.org>`__.
-
-.. image:: ./screenshots/01-landing-page.png
-    :alt: Platform landing page
-
-You can view the theme in action at https://sandbox.openedx.edly.io.
-
-Installation
-------------
-
-Indigo was specially developed to be used with `Tutor <https://docs.tutor.edly.io>`__ (at least v14.0.0). If you have not installed Open edX with Tutor, then installation instructions will vary.
-
-Install and enable Indigo plugin::
 
     tutor plugins install indigo
     tutor plugins enable indigo
